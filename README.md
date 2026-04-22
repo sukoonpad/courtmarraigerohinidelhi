@@ -1,10 +1,3 @@
-# Court Marriage Delhi — Website
-
-**Live Website:** https://courtmarriagedelhi.in  
-**Contact:** 9891343962
-
----
-
 ## Website Structure
 
 ```
